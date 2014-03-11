@@ -1,0 +1,17 @@
+<html>
+	<body>
+		<script>
+			var o = document.body;
+			function createA(url, text)
+			{
+				var a = document.createElement("a");
+				a.href = url;
+				a.innerHTML = text;
+				a.style.color = "red";
+				o.appendChild(a);
+			}
+			createA("http://www.baidu.com", "baidu");
+		</script>
+	</body>
+
+</html>
