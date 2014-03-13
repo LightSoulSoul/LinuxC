@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1383228005 source:/home/lightless/Program/Data_Struct/Data_Exp1/main.c
+	"Josepher.h"
+	"Josepher.cpp"
+
+1383188302 /home/lightless/Program/Data_Struct/Data_Exp1/Josepher.h
+	<stdio.h>
+	<stdlib.h>
+
+1383228161 source:/home/lightless/Program/Data_Struct/Data_Exp1/Josepher.cpp
+	"Josepher.h"
+
+1383228680 /home/lightless/Program/Data_Struct/Data_Exp1/Josepher.cpp
+	"Josepher.h"
+

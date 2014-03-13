@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Find a person whose name is Alice.</title>
+
+    <link href="bootstrap.min.css" rel="stylesheet">
+
+    <link href="jumbotron-narrow.css" rel="stylesheet">
+
+ </head>
+
+  <body>
+    <div class="container">
+      <div class="header">
+        <ul class="nav nav-pills pull-right">
+          <li class="active"><a href="./index.php?id=e958c26cb69fb763faeb2849076d78f4">H.shao</a></li>
+          <li><a href="./index.php?id=07b5511fb9e036990211eff978b1ee16">Lamos</a></li>
+          <li><a href="./index.php?id=20e8c6b8771ed6f565e6c251b319519a">Angelia</a></li>
+          <li><a href="./index.php?id=8d44a8f03ab5f71ce78ae14509a03453">Ray</a></li>
+        </ul>
+        <h3 class="text-muted">Web 100</h3>
+      </div>
+      <div class="jumbotron">
+        <p class="lead">
+	<br />Who are you ?
