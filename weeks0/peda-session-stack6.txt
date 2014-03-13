@@ -1,0 +1,5 @@
+break stack6.c:18
+break stack6.c:19
+break stack6.c:11
+tbreak main
+
